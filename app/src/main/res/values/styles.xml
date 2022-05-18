@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="NumericButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">#00FFFFFF</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:onClick">onClick</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">34dp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <style name="ActionButton">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:background">#00FFFFFF</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:onClick">onClick</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+</resources>
